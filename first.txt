@@ -9,3 +9,5 @@ even 4th
 a commit in a new branch
 
 seconde commit in the new branch
+
+commit #3
